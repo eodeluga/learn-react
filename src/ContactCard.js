@@ -16,17 +16,17 @@ const ContactCard = (props) => {
                 <p>Email: {props.email}</p>
                 <button onClick={() => setShowAge(!showAge)}>Show Age</button>
                 {/* Ternery operator */ }
-                {showAge && <p>Age: {props.age}</p>}
+                {showAge && <p>Phone: {props.age}</p>}
                 
                 {/* Demonstrates calling API from React and using a Promise*/}
-                <button onClick={
+                {/* <button onClick={
                     () => {
                         // Use fetch to make http request
                         fetch('https://jsonplaceholder.typicode.com/todos/1')
                             .then(response => response.json())
                             .then(json => alert(json.title))
                     }
-                }>Dummy</button>
+                }>Dummy</button> */}
             </div>
         </div>
     );
