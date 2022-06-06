@@ -1,7 +1,16 @@
-# Getting Started with Create React App
+# Learn React - Meetups Web App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+### Built as part of the Udemy course 
+[React The Complete Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
+<br><br>
+### Features learning materials
+* Components
+* Props
+* useState
+* useEffect
+* HTTP requests
+* Context
+<br><br>
 ## Available Scripts
 
 In the project directory, you can run:
