@@ -1,7 +1,7 @@
 # Learn React - Meetups Web App
 
 ### Built as part of the Udemy course 
-[React The Complete Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
+<a href="https://www.udemy.com/course/react-the-complete-guide-incl-redux/" target="_blank">React The Complete Guide</a>
 <br><br>
 ### Features learning materials
 * Components
